@@ -43,7 +43,7 @@ class characterAdapter(val characterList: List<Characters>) :
         }
 
 
-        hideImages(position)/
+        hideImages(position)
         setColor(colors, position)
 
 
